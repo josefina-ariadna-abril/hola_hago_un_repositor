@@ -7,6 +7,7 @@ Es el 1 primer repositor ue hago sola
 ----
 # ue tengo ue estudiar 
 + ue es github
+
 +Markdown 
 
 + *Github es parecido a una nube para subir y compratir proyectos. esto permite ue se pueda colaborar con gente externa para mejorar los repositores*
