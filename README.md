@@ -21,11 +21,11 @@ Es el 1 primer repositor ue hago sola
 - [x] Domrir
 - [ ] Comer
 ---
- ~~ uiero dormir y no puedo~~
+ (~~ uiero dormir y no puedo~~)
  
  ---
   ## Lista de emojis
-   (https://www.webfx.com/tools/emoji-cheat-sheet/)
+   https://www.webfx.com/tools/emoji-cheat-sheet/
    
    Mañana se aprueba
    :heart_eyes:
