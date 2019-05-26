@@ -18,7 +18,6 @@ Es el 1 primer repositor ue hago sola
 ***Sirve para poder editar lo ue ahora estoy escribiendo, edita el README y permite ue este sea mas lindo a la vista,  deja poner asteriscos, letra en negtita y cursive entre otras cosas***
 ---
 #Mi cancion preferida por el momento 
-[cristina] (https://www.youtube.com/watch?v=1Jw_mhoCiFY "Sebastian Yatra y Tini Stoessel)
-
+[cristina] (https://www.youtube.com/watch?v=1Jw_mhoCiFY "Sebastian Yatra y Tini Stoessel")
 #  ue lindo paisaje
-![Arora Borial(htts://www.elfinanciero.com.mx/viajes/en-busca-de-auroras-boreales-las-puedes-admirar-en-estos-lugares
+![Aurora borial] (https://www.elfinanciero.com.mx/viajes/en-busca-de-auroras-boreales-las-puedes-admirar-en-estos-lugares)
