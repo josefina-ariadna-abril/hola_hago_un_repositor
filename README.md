@@ -22,3 +22,7 @@ Es el 1 primer repositor ue hago sola
 #  ue lindo paisaje
 ![Aurora borial] (https://www.elfinanciero.com.mx/viajes/en-busca-de-auroras-boreales-las-puedes-admirar-en-estos-lugares)
 
+# listado de tareas
+-[x] Comer
+-[x] Dormir
+-[x] Estudiar
