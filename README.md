@@ -20,4 +20,4 @@ Es el 1 primer repositor ue hago sola
 #Mi cancion preferida por el momento 
 [cristina] (https://www.youtube.com/watch?v=1Jw_mhoCiFY "Sebastian Yatra y Tini Stoessel")
 #  ue lindo paisaje
-![Aurora borial] (https://www.elfinanciero.com.mx/viajes/en-busca-de-auroras-boreales-las-puedes-admirar-en-estos-lugares)
+![Aurora borial]: (https://www.elfinanciero.com.mx/viajes/en-busca-de-auroras-boreales-las-puedes-admirar-en-estos-lugares)
