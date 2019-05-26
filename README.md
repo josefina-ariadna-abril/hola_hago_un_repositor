@@ -1,4 +1,4 @@
-# hola hago un repositor.
+# hola hago un repositorio.
 ### Es el 1 primer repositor que hago sola.
 1. Tengo que estudiar para aprobar.
 2. si apruebo soy feliz.
